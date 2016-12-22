@@ -1,2 +1,2 @@
 # Todo-aholic
-Angular based Todo-app
+Just Another Angular based Todo-app
